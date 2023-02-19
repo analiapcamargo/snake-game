@@ -15,7 +15,7 @@
 
 ## Preview
 
-![Preview](/preview.png "This is a sample image.")
+![Preview](/assets/preview.png "This is a sample image.")
 
 ## Links
 
