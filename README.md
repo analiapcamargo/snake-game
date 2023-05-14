@@ -2,8 +2,6 @@
 
 ## Adaptation of the model taught by Gabriela Pinheiro at SPTech Front-end Development BootCamp at DIO
 
-
-
 ## *The code has the following changes:*
 
 * Sound effects;
