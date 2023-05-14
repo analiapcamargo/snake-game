@@ -9,8 +9,6 @@
 * Color change option;
 * Style.
 
-
-
 ## Preview
 
 ![Preview](/assets/preview.png "This is a sample image.")
